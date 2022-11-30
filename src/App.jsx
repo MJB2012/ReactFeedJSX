@@ -11,7 +11,7 @@ const posts = [
   {
   id: 1,
   author: {
-      avatarUrl:'https://pps.whatsapp.net/v/t61.24694-24/296921769_732428011395234_7530630064693897540_n.jpg?ccb=11-4&oh=01_AVwVmJHrZynaxhONpofv_-aFzOcuOmcTjz7rUxGIaN9lEQ&oe=63158BA3',
+      avatarUrl:'https://avatars.githubusercontent.com/u/89458923?v=4',
       name: 'Matheus J Barobosa',
       role: 'CEO of gaming'    
       },

@@ -19,7 +19,7 @@ import styles from './Comment.module.css';
     
     return (
         <div className={styles.comment}>
-           <Avatar hasBorder={false} src="https://pps.whatsapp.net/v/t61.24694-24/296921769_732428011395234_7530630064693897540_n.jpg?ccb=11-4&oh=01_AVwVmJHrZynaxhONpofv_-aFzOcuOmcTjz7rUxGIaN9lEQ&oe=63158BA3" />
+           <Avatar hasBorder={false} src="https://avatars.githubusercontent.com/u/89458923?v=4" />
         
         <div className={styles.commentBox}>
             <div className={styles.commentContent}>
